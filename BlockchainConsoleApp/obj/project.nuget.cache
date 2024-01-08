@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPSXWQzEip2sTjms4xPuuU6v6/VOYawq8xX5+u2iizSAxCocVoEOVS8hb3vVzJ0M69K+o2FE6x4WdPS5UmhNZw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Back-end\\learning exercise\\BlockchainConsoleApp\\BlockchainConsoleApp\\BlockchainConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solom\\.nuget\\packages\\crc32.net\\1.2.0\\crc32.net.1.2.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

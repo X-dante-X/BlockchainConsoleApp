@@ -1,0 +1,17 @@
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.AssemblyInfo.cs
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\BlockchainConsoleApp.exe
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\BlockchainConsoleApp.deps.json
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\BlockchainConsoleApp.runtimeconfig.json
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\BlockchainConsoleApp.dll
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\BlockchainConsoleApp.pdb
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\bin\Debug\net8.0\Crc32.NET.dll
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.csproj.CopyComplete
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.dll
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\refint\BlockchainConsoleApp.dll
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.pdb
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\BlockchainConsoleApp.genruntimeconfig.cache
+D:\Projects\Back-end\learning exercise\BlockchainConsoleApp\BlockchainConsoleApp\obj\Debug\net8.0\ref\BlockchainConsoleApp.dll
